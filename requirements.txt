@@ -1,5 +1,5 @@
-numpy==1.23.5
-pandas==1.5.2
-plotly @ file:///opt/conda/envs/env/conda-bld/plotly_1674482700049/work/packages/python/plotly/dist/plotly-5.13.0.tar.gz
-pydeck==0.8.0
-streamlit==1.16.0
+streamlit
+pandas
+numpy
+plotly
+pydeck

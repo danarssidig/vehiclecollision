@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run b_vehicle_collisions_app.py
